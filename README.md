@@ -29,16 +29,18 @@ To run the page:
 ## Screenshots
 
 Desktop view:
-<div><img width="754" height="374" alt="sugene-portfolio-desktop-view" src="https://github.com/user-attachments/assets/e7def0be-4d02-446c-ade0-53c6222b71d2" /></div>
+<div><img width="754" height="374" alt="sugene-portfolio-desktop-view" src="https://github.com/user-attachments/assets/e7def0be-4d02-446c-ade0-53c6222b71d2" />
+<img width="754" height="375" alt="sugene-portfolio-desktop-view" src="https://github.com/user-attachments/assets/388207fb-72b7-4c79-b767-8f284c7dd46d" />
+</div>
 
 Mobile view:
 <div style="display: flex;">
-<img width="218" height="468" alt="sugene-portfolio-mobile-view-1" src="https://github.com/user-attachments/assets/c21b030e-bf44-424c-8e7d-c9d405a8631b" />
-<img width="216" height="466" alt="sugene-portfolio-mobile-view-2" src="https://github.com/user-attachments/assets/298f840c-d2ae-439e-a91c-505265979ae2" />
+<img width="321" height="700" alt="sugene-portfolio-mobile-view-1" src="https://github.com/user-attachments/assets/d1835f05-e261-4e2f-97c7-791690f950bf" />
+<img width="321" height="696" alt="sugene-portfolio-mobile-view-2" src="https://github.com/user-attachments/assets/b5b9ce76-7ed4-456e-ba0c-0e2c2a3f4448" />
 </div>
 
 Tablet view:
-<div><img width="454" height="647" alt="sugene-portfolio-tablet-view" src="https://github.com/user-attachments/assets/29bfc169-8f32-4e09-99a5-9696e3705a0f" /></div>
+<div><img width="450" height="648" alt="sugene-portfolio-tablet-view" src="https://github.com/user-attachments/assets/4e0e5b11-aecc-47e1-91f8-a2d163ccf8c0" /></div>
 
 
 
@@ -48,7 +50,7 @@ The page is fully responsive for tablet and mobile view. In case of any issues o
 
 ## Authors
 
-Sugene Mulpuri
+Sugene Mulpuri<br><br>
 [Email Me](mailto:sugenemulpuri9@gmail.com)
 
 ## Version History
