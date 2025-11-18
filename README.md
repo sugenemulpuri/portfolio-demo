@@ -29,7 +29,7 @@ To run the page:
 ## Screenshots
 
 Desktop view:
-<div><img width="754" height="374" alt="sugene-portfolio-desktop-view" src="https://github.com/user-attachments/assets/e7def0be-4d02-446c-ade0-53c6222b71d2" />
+<div>
 <img width="754" height="375" alt="sugene-portfolio-desktop-view" src="https://github.com/user-attachments/assets/388207fb-72b7-4c79-b767-8f284c7dd46d" />
 </div>
 
