@@ -50,7 +50,7 @@ The page is fully responsive for tablet and mobile view. In case of any issues o
 
 ## Authors
 
-Sugene Mulpuri<br><br>
+Sugene Mulpuri<br>
 [Email](mailto:sugenemulpuri9@gmail.com)
 
 ## Version History
