@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Sugene's Portfolio</title>
+   <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page">
+    <header class="site-header" role="banner">
+      <h1 class="site-title">Sugene's Portfolio</h1>
+      <nav class="nav" role="navigation" aria-label="Main menu">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a class="active" href="#portfolio">Portfolio</a>
+      </nav>
+    </header>
+    <main class="main">
+      <section class="projects-grid">
+        <article class="project-tile project-1" tabindex="0">
+          <img src="images/house-project-1.jpg" alt="house" />
+          <div class="overlay">
+            <div>
+              <div id="p1title" class="title">Project 1</div>
+              <div class="subtitle">Home Improvement</div>
+            </div>
+          </div>
+        </article>
+        <article class="project-tile project-2" tabindex="0">
+          <img src="images/horse-project-2.jpg" alt="horses" />
+          <div class="overlay">
+            <div>
+              <div id="p2title" class="title">Project 2</div>
+              <div class="subtitle">Equine Photography</div>
+            </div>
+          </div>
+        </article>
+        <article class="project-tile project-3" tabindex="0">
+          <img src="images/health-project-3.jpg" alt="doctor" />
+          <div class="overlay">
+            <div>
+              <div id="p3title" class="title">Project 3</div>
+              <div class="subtitle">Patient Management System</div>
+            </div>
+          </div>
+        </article>
+        <article class="project-tile project-4" tabindex="0">
+          <img src="images/hardware-project-4.jpg" alt="server" />
+          <div class="overlay">
+            <div>
+              <div id="p4title" class="title">Project 4</div>
+              <div class="subtitle">Computer Hardware</div>
+            </div>
+          </div>
+        </article>
+      </section>
+      <aside class="sidebar">
+        <div>
+          <h3>Sugene Mulpuri</h3>
+          <p>838-484-3838</p>
+          <p><a href="mailto:sugenemulpuri9@gmail.com" style="color: #516b3f">sugenemulpuri9@gmail.com</a></p>
+        </div>
+        <form class="contact-form">
+          <h4>Contact Me</h4>
+          <label for="name">Name</label>
+          <input type="text" id="name" placeholder="Your name" tabindex="0"/>
+          <label for="email">Email</label>
+          <input type="email" id="email" placeholder="Your email" tabindex="0"/>
+          <label for="message">Message</label>
+          <textarea id="message" placeholder="Your message" tabindex="0"></textarea>
+          <button type="submit">Send Message</button>
+        </form>
+      </aside>
+    </main>
+    <footer class="site-footer">
+      &copy; 2025 Sugene Mulpuri. All Rights Reserved.
+    </footer>
+  </div>
+</body>
+</html>
